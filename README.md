@@ -12,5 +12,5 @@ Refer [dotjs] (http://github.com/defunkt/dotjs) for Installation Instructions.
 ### mail.google.com.js
 Removes the Ads on Gmail. You can check out my [Chrome Extension] (http://github.com/crusador/gmailCountHide) for removing Gmail Draft & Spam counts.
 
-### mail.google.com.js
+### facebook.com.js
 Removes the Ads on Facebook. Preserves the "People you may know". I have found it helpful occassionally.
