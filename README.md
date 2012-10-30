@@ -14,3 +14,4 @@ Removes the Ads on Gmail. You can check out my [Chrome Extension] (http://github
 
 ### facebook.com.js
 Removes the Ads on Facebook. Preserves the "People you may know". I have found it helpful occassionally.
+Makes the Upper Blue Bar scrollable.
